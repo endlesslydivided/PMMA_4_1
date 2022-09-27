@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ALEX\\STUDY\\7SEM_4COURSE\\Программирование мультемидийных и многомерных приложений\\Лабораторные работы\\5\\Lab5\\Lab5\\Lab5.csproj": {}
+  },
+  "projects": {
+    "D:\\ALEX\\STUDY\\7SEM_4COURSE\\Программирование мультемидийных и многомерных приложений\\Лабораторные работы\\5\\Lab5\\Lab5\\Lab5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ALEX\\STUDY\\7SEM_4COURSE\\Программирование мультемидийных и многомерных приложений\\Лабораторные работы\\5\\Lab5\\Lab5\\Lab5.csproj",
+        "projectName": "Lab5",
+        "projectPath": "D:\\ALEX\\STUDY\\7SEM_4COURSE\\Программирование мультемидийных и многомерных приложений\\Лабораторные работы\\5\\Lab5\\Lab5\\Lab5.csproj",
+        "packagesPath": "C:\\Users\\ON\\.nuget\\packages\\",
+        "outputPath": "D:\\ALEX\\STUDY\\7SEM_4COURSE\\Программирование мультемидийных и многомерных приложений\\Лабораторные работы\\5\\Lab5\\Lab5\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ON\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.5.5.4823, )"
+            },
+            "Emgu.CV.UI": {
+              "target": "Package",
+              "version": "[4.5.5.4823, )"
+            },
+            "Emgu.CV.runtime.windows": {
+              "target": "Package",
+              "version": "[4.5.5.4823, )"
+            },
+            "EmguCV": {
+              "target": "Package",
+              "version": "[3.1.0.1, )"
+            },
+            "OpenCvSharp4": {
+              "target": "Package",
+              "version": "[4.6.0.20220608, )"
+            },
+            "OpenCvSharp4.runtime.win": {
+              "target": "Package",
+              "version": "[4.6.0.20220608, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
